@@ -1,11 +1,11 @@
 {
   "name": "tree-cli",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "author": "minung.han",
   "license": "MIT",
   "main": "lib/index.js",
   "bin": {
-    "minung": "bin/run"
+    "tree-cli": "bin/run"
   },
   "scripts": {
     "build": "babel src -d lib"
