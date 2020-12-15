@@ -1,0 +1,16 @@
+{
+  "name": "tree-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "minung.han",
+  "license": "MIT",
+  "dependencies": {
+    "ink": "^3.0.8",
+    "react": "^17.0.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.12.10",
+    "@babel/core": "^7.12.10",
+    "@babel/preset-react": "^7.12.10"
+  }
+}
