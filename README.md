@@ -1,9 +1,9 @@
-# tree-cli
+# xmas-tree-cli
 
-show tree ascii art in console
+show xmas tree ascii art in console
 
 ## Usage
 
 ```bash
-$ npx tree-cli
+$ npx xmas-tree-cli
 ```

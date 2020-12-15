@@ -1,6 +1,6 @@
 {
-  "name": "tree-cli",
-  "version": "0.1.0",
+  "name": "xmas-tree-cli",
+  "version": "0.1.1",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/hmu332233/npm.tree-cli.git"
@@ -13,7 +13,7 @@
   "homepage": "https://github.com/hmu332233/npm.tree-cli#readme",
   "main": "lib/index.js",
   "bin": {
-    "tree-cli": "bin/run"
+    "xmas-tree-cli": "bin/run"
   },
   "scripts": {
     "build": "babel src -d lib"
