@@ -1,8 +1,16 @@
 {
   "name": "tree-cli",
   "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hmu332233/npm.tree-cli.git"
+  },
   "author": "minung.han",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hmu332233/npm.tree-cli/issues"
+  },
+  "homepage": "https://github.com/hmu332233/npm.tree-cli#readme",
   "main": "lib/index.js",
   "bin": {
     "tree-cli": "bin/run"
