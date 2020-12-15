@@ -1,9 +1,20 @@
 {
   "name": "tree-cli",
   "version": "1.0.0",
-  "main": "index.js",
   "author": "minung.han",
   "license": "MIT",
+  "main": "lib/index.js",
+  "bin": {
+    "minung": "bin/run"
+  },
+  "scripts": {
+    "build": "babel src -d lib"
+  },
+  "babel": {
+    "presets": [
+      "@babel/preset-react"
+    ]
+  },
   "dependencies": {
     "ink": "^3.0.8",
     "react": "^17.0.1"
